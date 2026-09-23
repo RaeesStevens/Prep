@@ -1,6 +1,6 @@
 
 const password = "secretword123";
-const userInput = "secretword";
+const userInput = "override";
 const adminPassword = "override";
 
 if(userInput === password){
