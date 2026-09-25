@@ -2,6 +2,7 @@
 const password = "secretword123";
 const userInput = "override";
 const adminPassword = "override";
+const response = "";
 
 if(userInput === password){
     console.log("Correct password entered");
@@ -11,3 +12,4 @@ if(userInput === password){
     console.log("Incorrect password!");
 }
 
+console.log(response);
