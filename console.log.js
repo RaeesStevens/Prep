@@ -10,4 +10,3 @@ console.log("hello world" === "Hello World")
 // check if two strings are not equal
 console.log("hello world" !== "Hello World")
 // true
-
