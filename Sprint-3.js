@@ -3,7 +3,7 @@
 
 // roundedNumber = Math.round(10.3);
 
-console.log(roundedNumber);
+// console.log(roundedNumber);
 
 firstroundedNumber = Math.round(10.3);
 secondroundedNumber = Math.round(4.2);
