@@ -7,12 +7,14 @@ const password = "secretword123";
 
 function checkPassword(userInput){
     // Compare the two values
-    if (userInput === password)
+    if (userInput === password) {
     console.log("Correct password entered");
     // If they match print "Correct password entered"
-} else if { 
+    } else { 
     console.log("Incorrect password, please try again");
     // If they don't match print "Incorrect password, please try again"
-}
+    }
+    }
 
-
+checkPassword("secretword123");
+checkPassword("WrongGuess99");
